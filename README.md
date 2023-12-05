@@ -1,2 +1,3 @@
-# proyecto_LazarIA
+#Manual de usuario
+#Aspectos Tecnicos
  
