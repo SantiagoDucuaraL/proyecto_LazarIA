@@ -56,6 +56,15 @@ Por defecto OpenCV lee las imágenes en BGR por ello se usa previamente la funci
 
 En maincore tenemos la asignación física de los pines de la raspi que serán usados y la configuración  de la cámara pi 4, además de cada uno de los modos tanto de cloud como de sin conexión descritos. Para el modo sin conexión en la identificación de billetes y colores se usa detect.py que viene con la instalacion de Yolov5 y se le agregan los parámetros de filtrado dependiendo el caso, si es para billetes se usan el filtrado de -class 1 2 3 4 6 para solo mostrar dichos resultados o -class 7 8 9 para la deteccion de obstaculos. Los resultados de la predicción del modelo se almacenan en un txt cuyo contenido se borra y se reescribe con cada nueva predicción, dependiendo de lo escrito en el txt por el modelo se activa un audio para dar la información de lo detectado. Solo se detecta aquello que tenga un grado de confianza de 35% o más si el modelo detecta algo por debajo de ese valor lo toma como que no detecto nada.
 
+
+## Video de Demostración
+
+[![Demostracion1](https://drive.google.com/file/d/1xnOYb0NdHL_M0KU_QkBQDQfN_kRzK3db/view?usp=sharing)
+
+[![Demostracion2](https://drive.google.com/file/d/1RVlavPIR6fHmZ_OASmoGmK2F1qNgCa6a/view?usp=sharing)
+
+
+
 ## Colaboradores
 
 - [Cristian Valenzuela - cvalenzuelac@unal.edu.co]
