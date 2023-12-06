@@ -17,7 +17,7 @@ El prototipo consta de una tarjeta Raspi 4, una cámara pi 4, un módulo de de 4
 
 Para iniciar el funcionamiento del prototipo el script maincore debe ser ejecutado manualmente si este se ejecuta correctamente el sistema reproducirá un audio de bienvenida, luego de ello mientras el sistema se encuentre energizado podrá usarse sin inconvenientes. El prototipo lazarIA cuenta con dos modos de funcionamiento: Modo cloud y el modo sin conexión.
 
-<span>https://raw.githubusercontent.com/SantiagoDucuaraL/Captura.PNG</span><span>)</span>
+<span>https://raw.githubusercontent.com/SantiagoDucuaraL/Captura.PNG</span>
 
 
  
