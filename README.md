@@ -23,6 +23,7 @@ Para iniciar el funcionamiento del prototipo el script maincore debe ser ejecuta
 
 <h4>A. Modo cloud </h4>
 Para activar el modo cloud se debe presionar una vez el boton amarillo del modulo de botenes. 
+
 1. El botón que se encuentra justo debajo botón de activación del modo cloud al presionar realizará la adquisiciones de datos proporcionados por el módulo gps y por medio se calculará la posición y se enviará por medio de un bot en telegram como un google maps 
 2. El siguiente botón permite tomar un video clip de 5 segundos que puede ser solicitado por medio del  bot de telegram al escribir la palabra video (cada nuevo video reescribe el anterior). 
 3. El siguiente botón al presionarlo toma una una foto que será enviada a los servicios de azure para que retorne una descripción en audio de lo que se observe en la foto.
