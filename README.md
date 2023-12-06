@@ -9,11 +9,15 @@ Instrucciones de uso
 Ejemplo de funcionamiento del prototipo
 Aspectos técnicos de funcionamiento
 
-
 <h3>Aspecto físico</h3> 
 
 El prototipo consta de una tarjeta Raspi 4, una cámara pi 4, un módulo de de 4 botones con funcionalidades asignadas y  una batería de 2.2A para alimentar la Raspi 4.  La tarjeta Raspi 4 se encuentra protegida del exterior por una caja transparente de acrílico, la cámara pi 4 se encuentra conectada a la raspi por medio de un flex y el módulo de botones se encuentran conectados por medio de jumpers a los pines gpio de la Raspi 4.
 
+<h3>Instrucciones de uso</h3>
 
-<h3>Aspectos Tecnicos</h3>h3>
+Para iniciar el funcionamiento del prototipo el script maincore debe ser ejecutado manualmente si este se ejecuta correctamente el sistema reproducirá un audio de bienvenida, luego de ello mientras el sistema se encuentre energizado podrá usarse sin inconvenientes. El prototipo lazarIA cuenta con dos modos de funcionamiento: Modo cloud y el modo sin conexión.
+
+<span>![</span><span>Diagrama de los botones</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/SantiagoDucuaraL/Captura.PNG</span><span>)</span>
+
+
  
