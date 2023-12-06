@@ -58,7 +58,7 @@ En maincore tenemos la asignación física de los pines de la raspi que serán u
 
 ## Colaboradores
 
-- [Cristian Valenzuela - cvalenzuelac@unal.edu.co](enlace-al-perfil)
-- [Santiago Ducuara - sducuaral@unal.edu.co](enlace-al-perfil)
+- [Cristian Valenzuela - cvalenzuelac@unal.edu.co]
+- [Santiago Ducuara - sducuaral@unal.edu.co]
 - [Laura Ruiz - lmruizva@unal.edu.co]
 - [David Barona - dgbaronac@unal.edu.co]
