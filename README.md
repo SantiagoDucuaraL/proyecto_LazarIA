@@ -59,9 +59,9 @@ En maincore tenemos la asignación física de los pines de la raspi que serán u
 
 ## Video de Demostración
 
-[![Demostracion1](https://drive.google.com/file/d/1xnOYb0NdHL_M0KU_QkBQDQfN_kRzK3db/view?usp=sharing)
+[![Demostracion1] https://drive.google.com/file/d/1xnOYb0NdHL_M0KU_QkBQDQfN_kRzK3db/view?usp=sharing
 
-[![Demostracion2](https://drive.google.com/file/d/1RVlavPIR6fHmZ_OASmoGmK2F1qNgCa6a/view?usp=sharing)
+[![Demostracion2]https://drive.google.com/file/d/1RVlavPIR6fHmZ_OASmoGmK2F1qNgCa6a/view?usp=sharing
 
 
 
